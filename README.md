@@ -1,1 +1,1 @@
-# Linear-regression-model-
+# Linear-regression-model-exercise
